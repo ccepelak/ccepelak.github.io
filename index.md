@@ -14,10 +14,10 @@ layout: default
   onsubmit="window.open('https://buttondown.email/ccepelak', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">enter your email for monthly updates: </label>
   <input type="email" name="email" id="bd-email"></input>
   <input type="hidden" value="1" name="embed"></input>
-  <input type="submit" value="Subscribe"></input>
+  <input type="submit" value="subscribe"></input>
   <p>
     <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
   </p>
