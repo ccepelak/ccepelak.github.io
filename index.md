@@ -15,7 +15,7 @@ layout: default
   onsubmit="window.open('https://buttondown.email/ccepelak', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email for monthly updates: </label>
+  <label for="bd-email">Enter your email for updates: </label>
   <input type="email" name="email" id="bd-email">
   <input type="hidden" value="1" name="embed">
   <input type="submit" value="subscribe">
