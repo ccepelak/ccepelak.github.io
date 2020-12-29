@@ -31,7 +31,7 @@ navigation:
     url: /about/
     desc: Learn about me
   - title: Blog
-    url: /_posts/
+    url: /articles/
     desc: Public notes 
   - #title: Projects
     #url: /projects/
