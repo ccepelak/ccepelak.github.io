@@ -1,51 +1,40 @@
 ---
-title: Volunteering with Tech for Campaigns
-desc: This is a sample for my first post.
+title: Everyone Belongs in Civic Engagement
+desc: My Experience with Tech for Campaigns
 ---
 
-## Stricto nitar
+## 2016 was the greatest political upset of our time, and a wakeup call for most. 
 
-Lorem markdownum liquidas. Ad qui saxo prodis una, dextra medicamina fremit
-voce, Iuppiter, sum morte, et. Est hos est vultum ocius dextra praetulit
-aequoris hominem.
 
-- Decet fore donec
-- Exiguo pontus fulgorem specto vultumque dederas
-- Vix ferire metu ferox
-- Loci quis postera quicquid nullis
+[While voter turnout was average](https://en.wikipedia.org/wiki/Voter_turnout_in_United_States_presidential_elections), public sentiment was decidedly polarized. For me, at 27, politics was just a noisy backdrop to a season of general chaos and life on the road. 
 
-## Cum visuras longo venisse denique utinam rurigenae
+I had the notion the outcome would either be justified or include support to move our country in the right direction. So in the middle of a month on the road, I didn’t make the time to find a polling station on election day. The next day, protests filled the streets of San Francisco. 
 
-Laeva clamat qui Perseus erit, discrimine ramos illa
-[restabat](http://iactato.com/parsque-aliter.php): bracchia, templa, ab
-spectans. Monte contigit Rhodosque manus mille est omnia eiusdem nondum: qui.
-Modo o Nisus [Haemoniam primus](http://operatus.com/utve-dat.html) male hic
-iactis in undas et vel nunc et Tantalides fuit crede. Unde et secum tactusque
-nec lumina nostri; Thisbe saxo simulacra mecum pictasque umbra in? Matris alis
-dat.
+Trump’s election didn’t seem real, and while I was ambivalent before, **I was determined to never give up my voice again**. 
 
-## Exclamat illis omnipotens huic enses est
+During the 2020 primaries, I did my research and phone banked for my choice candidate. This work reminded me how challenging community organizing work can be: so many people hung up on me or were angrily triggered by general questions. There were few meaningful connections, and the entire experience felt futile and caustic. 
 
-Cannis detrahe et postquam, turba delere ergo radios sunt! Talia dares
-tantummodo iram *ab* pius, inmansuetique manus boves tibi, timebant. Dedit
-ossibus accedere siccat. Inritare submovet figuris quam, volucrem falsa. Videt
-eripite pro [Semina](http://modo.net/).
+Already in a corrosive work environment, I couldn’t handle the vitriol in these cold calls. Working with other volunteers closer to election day showed me that I was not alone. **I knew I needed to find a more sustainable way to get involved**. 
 
-Nitor dicimus potentia ad pedis. Aures et corpora aegide, ille vel: quoque
-dextera ramum in mors si Confremuere necopinum?
+I found [Tech for Campaigns] (https://www.techforcampaigns.org/), a non profit leveraging tech talent in support of progressive candidates at the state level. With a year-round strategy focused on flipping historically conservative seats, they are a well oiled machine behind success stories such as [Stacey Abrams](https://www.techforcampaigns.org/Stacey-Abrams) in Georgia and [Kendra Horn](https://www.techforcampaigns.org/Kendra-Horn) in Oklahoma. 
 
-## Poena corpus enixa fumo non auctor iudice
+State races routinely report low coverage, but are critical in influencing real experiences for constituents. I applied to support an email fundraising campaign and received an email response within 2 days. 
 
-Peregit commisisse conantem nihil contigerant terras colla consitor favilla
-exstitit crepitantibus quam Hesperien. Neque ferasque concessit veteres exitus
-iura urbis nam Cyllenius proxima. Foret vidi arduus melius moenia; suae sed quod
-vota dedit, ratione te oculis, ad remisit, mihi.
+I joined a team to support [Eric Holguin](https://www.ericholguin.com/about-eric), a progressive candidate in the South Texas area of Corpus Christi. He would be the first openly gay, Latinx man to be elected in Texas, and a critical part in [preventing Republican gerrymandering](https://www.dailykos.com/stories/2020/9/10/1976444/-Daily-Kos-makes-record-breaking-endorsements-in-statehouse-races). He campaigned on developing local resiliency: focusing on the coastal infrastructure, economic diversity, and inclusive representation. 
 
-> Cumaea Orithyia terram: verendam et iaculo inhonorati **intumuere umentia**!
-> Tuorum esse sed Atridae cum melius, plenissima aurea, **caelum**. Cythereius
-> *liber*. Fert extra tenus homine opportuna precari. Ecce quae cani amantem,
-> ast posse, **vixisti et**.
 
-Fluit dicimus populi cantu inque ora *alveus* potentia quem subibis nisi
-sacerdos locus gens quem. Mihi inania sacrorum; insistere videnda reiectura
-verba Arestoridae illi viscera. Incertam natae creatis suis.
+The incumbent, [Todd Hunter](https://house.texas.gov/members/member-page/?district=32), was surrounded by accusations of using his position to [enrich himself](https://www.reformaustin.org/texas-legislature/who-are-todd-hunters-real-constituents/), and touted an otherwise standard Republican platform. 
+
+Our TFC team consisted of an email marketer, a team lead, and a data analyst (my role!). We were tasked to fundraise for the advertising budget (managed by another TFC team), and my work focused on managing a dashboard and all other data-related requests. Data was used to identify the success of different topics and phrasing, along with specific subsets of engaged audience members. 
+
+We met once a week with a TFC Texas campaign liaison (who managed all TFC-supported races in Texas), and then separately with Eric and his team. Conversations with Eric focused mostly on events and issues at the forefront of his campaign - all emails had to be signed off by him before sending. Meetings with the TFC staff member focused on strategy and sharing resources from other teams. These meetings along with my work managing the email progress dashboard took between 5-10 hours per week. To support the campaign, I even got the chance to draft some emails! 
+
+**Over the three months that our team supported the campaign, we raised over $20k** which was subsequently funneled into digital ads reaching over 90k profiles on Facebook. 
+
+While Eric did not win his election, TFC’s work shows that foundational work is critical: building awareness around a candidate can flip a seat in two election cycles. 
+
+I learned a lot about email marketing and copywriting during this project, and had the privilege to work with other smart and talented women. TFC also did their part to bring together all teams with regular “happy hour” video calls and a vibrant Slack community. However, **the greatest part of this experience for me was realizing there was a place for me to contribute meaningfully in the civic arena, despite being disconnected from community organizing for years.** I had applied to data-focused roles in political organizations before finding Tech for Campaigns (in order to support progress in the election), and all of them turned me away for lack of recent experiences with...political organizations. 
+
+Tech for Campaigns is hopefully the first in a new wave of organizations which meaningfully embraces the skills and energy of those without political careers. **While political strategy and organizing are legitimate skills which take time and experience to cultivate, it only took 5-10 hours a week for our team to make a real impact on the success of this campaign. **
+
+I believe that everyone should take the opportunity to try community organizing. Despite my struggles, it reminded me that we truly *are* all in this together. But for those who don’t have the bandwidth for this, there is still a place for you in civic engagement. I urge you to find a place that works for you, or even take a page from TFC founders, [Jessica Alter, Ian Ferguson, and Peter Kazanjy’s](https://www.techforcampaigns.org/about-us) playbook: start your own skills-based organization. Regardless of the path forward, *I will not give up my voice again!*  
