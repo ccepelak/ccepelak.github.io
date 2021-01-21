@@ -7,7 +7,7 @@ Asian Americans make up [5.6 percent of the US population](https://data.census.g
 
 Naturalized immigrants make up for most of this rapid growth, representing two-thirds of eligible Asian American voters, and [concentrated in three states](https://www.pewresearch.org/fact-tank/2020/05/07/asian-americans-are-the-fastest-growing-racial-or-ethnic-group-in-the-u-s-electorate/): California (3.6 million), New York (920,000), and Texas (698,000). Also notable is that eligible Asian voters have an annual median household income of $105,000, the highest of any racial or ethnic group - a major determining factor of civic engagement for other racial groups. 
 
-** So why has a growing, well-resourced community been sitting on the sidelines? **
+**So why has a growing, well-resourced community been sitting on the sidelines? **
 
 Andrew Yang, Democratic presidential candidate is the most recent high profile politician to bring light to the issue of low Asian American civic engagement. Considered the most surprising candidate of the election cycle, Yang is the third Asian American to run for president, and the [first to run as a Democrat](https://abc13.com/5526660/). 
 
@@ -18,7 +18,7 @@ This is in great part because of the excitement over a representative candidate.
 
 [Blockbusters](https://www.pbs.org/newshour/arts/why-on-screen-representation-matters-according-to-these-teens) like Crazy Rich Asians and lionization of leaders like Indra Nooyi, CEO of PepsiCo, demonstrate the demand for more representation in the spotlight. --And based on the response to his campaign, Yang has become a similar symbol. 
 
-** However, as a volunteer during the 2020 election cycle, and an organizer for environmental issues during college, I was often the only Asian in the room. **
+**However, as a volunteer during the 2020 election cycle, and an organizer for environmental issues during college, I was often the only Asian in the room. **
 
 Being alone in civic life as an Asian American has been common in history: “it was alright for me to be a pacifist [during WWII] because as a Japanese national and a ‘girl’ it didn’t make any difference to anyone,” Mitsuye Yamada reflects on her sense of invisibility as a politically active student. Her reflections include acquaintances dying in WWII to demonstrate “how American [they] really were,” and the feeling that “[the US government] knew that the West Coast Japanese Americans would go [to concentration camps] without too much protest.” She also shares her experiences of being the only Asian American when engaging in protests.
 
