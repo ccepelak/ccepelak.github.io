@@ -14,7 +14,7 @@ permalink: /about/
 </figure>
 {:/}
 
-I’m a <i>Senior Analytics Consultant</i> at Blue Cross Blue Shield, an <i>Analytics Mentor</i> at Thinkful, and a data volunteer at <i>Tech for Campaigns</i>. 
+I’m an <i>Analytics Mentor</i> at Thinkful, a <i>Freelance Writer</i> covering social issues, and a data volunteer at <i>Tech for Campaigns</i>. 
 
 Before now, I worked at Toyota, Wells Fargo, Cedar Valley College, the City of Denton, and graduated from the University of Texas at Dallas. 
 
