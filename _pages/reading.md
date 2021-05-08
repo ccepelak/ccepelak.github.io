@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reading
-subtitle: reading 
 desc: my goal to read the Great Books of the Western World by 2030
 permalink: /reading/
 ---
