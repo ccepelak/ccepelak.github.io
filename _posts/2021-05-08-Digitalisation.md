@@ -1,6 +1,6 @@
 ---
 title: The Future of Digital Governance
-desc: How can digitalisation be steered and regulated in a direction that is beneficial and improves public well-being? 
+desc: How can digitalisation be steered & regulated in a direction which improves public well-being? 
 ---
 
 As the world speeds into a future defined by technology and information, little consideration is being given to the protection of rights of most people. From the impacts of automation on jobs, to the misinformation threatening democracies, and even how artificial intelligence is affecting the opportunities of marginalized populations, more and more we find our experience is controlled by a handful of companies and people. Progress is important, but it cannot come at the cost of sacrificing the rights of many of the most vulnerable people in society.
