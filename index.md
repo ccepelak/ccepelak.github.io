@@ -5,7 +5,9 @@ layout: default
 <div class="lead pretty-links">
   <i>Hi!</i> I’m glad you’re here.
 
-  <b>My name is Christine</b> and I’m a <i>Data Science and Public Policy</i> graduate student at the <a href="https://www.hertie-school.org/en/">Hertie School</a>, an <i>Artificial Intelligence Technical Project Manager</i> at <a href="https://www.synaptiq.ai/">Synaptiq</a>, a <i>Data Analytics Technical Expert</i> at <a href="https://www.thinkful.com/">Thinkful</a>, and a <i>Freelance Writer</i> covering social issues. I believe a just world is feminist and antiracist, and in my spare time I can be found <a href="https://christinecepelak.com/reading/">reading</a>, enjoying nature & teaching yoga. 
+  <b>My name is Christine</b> and I’m a <i>Data Science and Public Policy</i> graduate student at the <a href="https://www.hertie-school.org/en/">Hertie School</a>, an <i>Artificial Intelligence Technical Project Manager</i> at <a href="https://www.synaptiq.ai/">Synaptiq</a>, a <i>Data Analytics Technical Expert</i> at <a href="https://www.thinkful.com/">Thinkful</a>, and a <i>Freelance Writer</i> covering social issues. 
+  
+I believe a just world is feminist and antiracist, and in my spare time I can be found <a href="https://christinecepelak.com/reading/">reading</a>, enjoying nature & teaching yoga. 
 
 </div>
 <br>
