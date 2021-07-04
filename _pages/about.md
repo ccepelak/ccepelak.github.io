@@ -10,7 +10,7 @@ permalink: /about/
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/2021_Headshot.gif">
+    <img src="{{ site.baseurl }}/2021_Headshot.jpg">
 </figure>
 {:/}
 
