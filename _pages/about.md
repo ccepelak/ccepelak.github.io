@@ -10,12 +10,14 @@ permalink: /about/
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/ccepelak_cHeadshot.gif">
+    <img src="{{ site.baseurl }}/2021_cHeadshot.gif">
 </figure>
 {:/}
 
-I’m an <i>Analytics Mentor</i> at Thinkful, a <i>Freelance Writer</i> covering social issues, and a data volunteer at <i>Tech for Campaigns</i>. 
+    I’m a <i>Data Science and Public Policy</i> graduate student at the Hertie School, an <i>Artificial Intelligence Technical Project Manager</i> at Synaptiq, a <i>Data Analytics Technical Expert</i> at Thinkful, and a <i>Freelance Writer</i> covering social issues. 
 
+I also volunteer as a policy volunteer for Mental Health of America, focusing on trauma and equity issues impacting vulnerable populations. 
+ 
 Before now, I worked at Toyota, Wells Fargo, Cedar Valley College, the City of Denton, and graduated from the University of Texas at Dallas. 
 
 You can view my resume here: <a href="https://docs.google.com/document/d/1rZxwA1dA8zl2IpwRuBtgDYGh3CWU0-Lj1ciMbSf77YM/edit?usp=sharing">Sr. Analyst</a>
