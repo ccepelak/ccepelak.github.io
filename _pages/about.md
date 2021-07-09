@@ -14,7 +14,7 @@ permalink: /about/
 </figure>
 {:/}
 
-I’m a <i>Data Science and Public Policy</i> graduate student at the Hertie School, an <i>Artificial Intelligence Technical Project Manager</i> at Synaptiq, a <i>Data Analytics Technical Expert</i> at Thinkful, and a <i>Freelance Writer</i> covering social issues. 
+I’m a <i>Data Science and Public Policy</i> graduate student at the Hertie School, an <i>Artificial Intelligence Technical Project Manager</i> at Synaptiq, and a <i>Freelance Writer</i> covering social issues. 
 
 I also volunteer as a policy volunteer for Mental Health of America, focusing on trauma and equity issues impacting vulnerable populations. 
  
