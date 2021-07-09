@@ -18,7 +18,7 @@ I’m a <i>Data Science and Public Policy</i> graduate student at the Hertie Sch
 
 I also volunteer as a policy volunteer for Mental Health of America, focusing on trauma and equity issues impacting vulnerable populations. 
  
-Before now, I worked at Toyota, Wells Fargo, Cedar Valley College, the City of Denton, and graduated from the University of Texas at Dallas. 
+Before now, I worked at Toyota, Thinkful, Wells Fargo, Cedar Valley College, the City of Denton, and graduated from the University of Texas at Dallas. 
 
 You can view my resume here: <a href="https://docs.google.com/document/d/1rZxwA1dA8zl2IpwRuBtgDYGh3CWU0-Lj1ciMbSf77YM/edit?usp=sharing">Sr. Analyst</a>
 
